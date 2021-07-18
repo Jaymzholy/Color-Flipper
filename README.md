@@ -3,4 +3,4 @@
 
 
 ### Link
-Live site URL <https://jaymz-color-flipper.netlify.app>
+Live app URL <https://jaymz-color-flipper.netlify.app>
